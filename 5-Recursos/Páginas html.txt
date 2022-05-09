@@ -1,0 +1,10 @@
+Recursos HTML CSS 
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://sharkcoder.com/layout/flexbox
+
+https://css-tricks.com/
+
+https://www.freecodecamp.org/
+
